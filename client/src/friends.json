@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Rachel Green",
+    "image": "http://picture-cdn.wheretoget.it/tmr6py-l-610x610-blouse-rachel+green-tease-navy+blue+crop-button-friends-patch.jpg",
+    "occupation": "Fashion World",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Monica Geller",
+    "image": "https://amp.insider.com/images/5c8279ebeb3ce821ef1247a2-750-562.jpg",
+    "occupation": "Chef",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Phoebe Buffay",
+    "image": "https://cimg.tvgcdn.net/i/2019/03/28/39b2a3f5-d5cc-4dfa-87ab-ee6510fee178/1f91170d8bad55db187de67885109072/phoebe-buffay-friends-lisa-kudrow-news.jpg",
+    "occupation": "Songwriter",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Joey Tribbiani",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/30/09/joey.jpg?w968h681",
+    "occupation": "Actor",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Chandler Bing",
+    "image": "http://images.newindianexpress.com/uploads/user/imagelibrary/2019/8/19/original/2ChandlerBing.JPG",
+    "occupation": "IT Manager",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Ross Geller",
+    "image": "https://stellar.ie/wp-content/uploads/2016/07/Ross-Geller-640x400.jpg",
+    "occupation": "Paleontologist",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Janice Hosenstein",
+    "image": "https://imgix.bustle.com/rehost/2016/9/13/a6d6a55c-3b0a-4c30-9b7c-c0d2b45031e6.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+    "occupation": "Chandler's Ex",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Emily Waltham",
+    "image": "http://scribol.com/wp-content/uploads/2017/05/19-Emily-Waltham-of-Friends.jpg",
+    "occupation": "Ross's 9348 Wife",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Gunther",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--HU97xWxM--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/q2hy8z33nfnaalmyenao.jpg",
+    "occupation": "Central Perk Barista",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Mike Hannigan",
+    "image": "https://em.wattpad.com/2e300acb644ee4079cf4cd48d560acfac400c527/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f49617578324357434f6d517a37413d3d2d3731333332393832302e313539306437636361353662353564353937323038303436343331302e6a7067?s=fit&w=720&h=720",
+    "occupation": "Phoebe's Hubby",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Richard Burke",
+    "image": "https://i.pinimg.com/originals/39/d6/7f/39d67f239e1d70cf1d7c1314b953168e.jpg",
+    "occupation": "Ophthalmologist",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Carol Willick",
+    "image": "https://lgbtfansdeservebetter.com/static/uploads/2017/03/Carol-Willick-Jane-Sibbett.png",
+    "occupation": "Ross's First Wife",
+    "count": 0
+  }
+]

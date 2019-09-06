@@ -1,0 +1,11 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #ff2600;
+    font-family: 'Permanent Marker', cursive;
+  }
+  
+  .scores {
+    float: center;
+    font-family: 'Permanent Marker', cursive;
+  }

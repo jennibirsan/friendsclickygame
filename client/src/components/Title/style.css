@@ -1,0 +1,9 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  /* text-decoration: underline; */
+  color: #0ccdff;
+  margin-top: 80px;
+  font-family: 'Permanent Marker', cursive;
+}

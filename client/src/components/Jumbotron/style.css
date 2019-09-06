@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url('./large.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    /* display:block;
+    margin-left:auto;
+    margin-right:auto; */
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    /* text-decoration: underline; */
+    color: #ffea03;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+  }
