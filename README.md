@@ -11,7 +11,7 @@ This Clicky Game is a 'Friends' themed memory game, where you must click each ca
 React JS
 
 ## Deployed Link
-(INSERT LINK)
+https://jennibirsan.github.io/clickygame-deploy/
 
 ## Main Page
 (this is the main page before you begin playing)
