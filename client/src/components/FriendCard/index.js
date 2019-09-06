@@ -9,10 +9,10 @@ const FriendCard = props => (
     <div className="content">
         <ul>
           <li>
-            <strong>Name:</strong> {props.name}
+            <strong></strong> {props.name}
           </li>
           <li>
-            <strong>Occupation:</strong> {props.occupation}
+            <strong></strong> {props.occupation}
           </li>
         </ul>
       </div>
