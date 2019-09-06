@@ -7,5 +7,7 @@
   
   .scores {
     float: center;
+    text-align: center;
     font-family: 'Permanent Marker', cursive;
+    margin-top: -90px;
   }
