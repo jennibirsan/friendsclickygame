@@ -66,7 +66,7 @@ class App extends Component {
         </NavBar>
         <br></br>
         <Jumbotron>
-          <Title>Friends Clicky Game
+          <Title>Friends Memory Game
           <br></br>
             Don't click the same card twice!
         </Title>
