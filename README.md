@@ -9,6 +9,10 @@ This Clicky Game is a 'Friends' themed memory game, where you must click each ca
 
 ## Languages Used
 React JS
+Javascript
+JSX
+CSS
+HTML
 
 ## Deployed Link
 https://jennibirsan.github.io/clickygame-deploy/
