@@ -9,7 +9,7 @@ This Clicky Game is a 'Friends' themed memory game, where you must click each ca
 
 ## Languages Used
 * React JS
-* avascript
+* Javascript
 * JSX
 * CSS
 * HTML
